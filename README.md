@@ -2,7 +2,7 @@
 
 ### Architecture
 
-Clean Architecture
+- Clean Architecture
 
 ### Application
 
