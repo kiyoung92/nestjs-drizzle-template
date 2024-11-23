@@ -1,8 +1,8 @@
 # NestJS + Drizzle ORM + MySQL Template
 
-### Database
+### Architecture
 
-- MySQL
+Clean Architecture
 
 ### Application
 
